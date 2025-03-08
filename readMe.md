@@ -19,35 +19,35 @@ HoverCard Insights is an intuitive web-based project designed to deliver seamles
 - **Customizable**: Easily change hover styles, colors, and effects to fit your design.
 
 # Preview
-<span>ClipHover Reveal Card Design Section</span>
+<span>HoverCard Insights Card Design Section</span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220966431/HoverCard-Insights-Interactive-Hover-Effects" target="_blank">
 <img style="width:550px;" src="./img/landingPageProductCardSection.gif" alt="" /></a>
 <br/>
-<span>ClipHover Reveal Card Design Section Start & End Point </span>
+<span>HoverCard Insights Card Design Section Start & End Point </span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220966431/HoverCard-Insights-Interactive-Hover-Effects" target="_blank">
 <img style="width:350px;" src="./img/landingPageProductCardSection.png" alt="" />
 <img style="width:350px;" src="./img/landingPageProductCardHoverSection.png" alt="" />
 </a>
 <br/>
-<span>ClipHover Reveal Card Design Section UI UX Layout Start & End Point</span>
+<span>HoverCard Insights Card Design Section UI UX Layout Start & End Point</span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220966431/HoverCard-Insights-Interactive-Hover-Effects" target="_blank">
 <img style="width:350px;" src="./img/landingPageProductCardUIUXLayoutSection.gif" alt="" />
 </a>
 
 <br />
-<span>ClipHover Reveal Card Design Section UI UX Layout</span>
+<span>HoverCard Insights Card Design Section UI UX Layout</span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220966431/HoverCard-Insights-Interactive-Hover-Effects" target="_blank">
 <img style="width:350px;" src="./img/landingPageProductCardUIUXLayoutSection.png" alt="" />
 <img style="width:350px;" src="./img/landingPageProductCardHoverUIUXLayoutSection.png" alt="" />
 </a>
 <br/>
 <span>Cover</span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/220966431/HoverCard-Insights-Interactive-Hover-Effects" target="_blank">
 <img style="width:350px;" src="./img/cover.png" alt="" />
 </a>
 <br />
